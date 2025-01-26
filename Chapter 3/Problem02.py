@@ -7,6 +7,6 @@ You are selected!
 
 letter = '''  Dear <|Name|>, 
 You are selected! 
-<|Date|> ''' 
+<|Date|> '''   
             
 print(letter.replace('<|Name|>',input()).replace('<|Date|>',input()))
