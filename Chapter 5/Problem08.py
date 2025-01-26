@@ -16,6 +16,6 @@ name = input("Enter friends name: ")
 lang = input("Enter lang name: ")
 d.update({name: lang})
 
-print(d)
+print(d)   
 
 # it will deliver all values
