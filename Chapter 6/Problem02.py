@@ -6,9 +6,9 @@ chem = int(input("Enter your chemistry number: "))
 
 bio = int(input("Enter your bilogy number: "))
 
-avg = ((phy+chem+bio)*100)/300
+avg = ((phy+chem+bio))/3
 
-if (avg>=40):
+if (avg>=40 and phy >= 33 and bio >= 33 and chem >= 33):
     print("You're pass!")
     
 else:
