@@ -1,8 +1,8 @@
 def goodDay(name,outro):
     print(f"Good Day {name}")
     print(outro)
-    return "ok"
-    
+    return # 0 , "OK"
+
 # goodDay("Walid","Thank you")
 # goodDay("Aziz","Thanks")
 # goodDay("Tarek","Shukran")
