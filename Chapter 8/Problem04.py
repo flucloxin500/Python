@@ -9,4 +9,4 @@ def sum(n) :
 x = int(input("Enter number for calculate it's total sum: "))
 
 Natural = sum(x)
-print(Natural)
+print(Natural)    
