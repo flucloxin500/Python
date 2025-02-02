@@ -1,7 +1,6 @@
-st = "Hey walid, You are amazing!"
+'''f = open(r"E:\Python\All Projects\Chapter 9\file.txt", "r")
+print(f.read())
+f.close()'''
 
-f = open(w"E:\Python\All Projects\Chapter 9\file.txt", "w")
-
-f.write(st)
-
-f.close()
+with open(r"E:\Python\All Projects\Chapter 9\file.txt", "r") as f:
+    print(f.read())
