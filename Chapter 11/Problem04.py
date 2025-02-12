@@ -1,2 +1,3 @@
-'''Add a static method in problem 2, to greet the user with hello. '''
+'''  Write a class ‘Complex’ to represent complex numbers, along with overloaded 
+operators ‘+’ and ‘*’ which adds and multiplies them. '''
 

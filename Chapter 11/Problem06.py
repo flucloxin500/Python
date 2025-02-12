@@ -1,3 +1,4 @@
-'''Can you change the self-parameter inside a class to something else (say 
-“harry”). Try changing self to “slf” or “harry” and see the effects. '''
+''' Write __str__() method to print the vector as follows: 
+7i + 8j +10k  
+Assume vector of dimension 3 for this problem. '''
 

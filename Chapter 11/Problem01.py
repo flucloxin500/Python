@@ -1,4 +1,6 @@
-'''Create a class “Programmer” for storing information of few programmers 
-working at Microsoft. '''
+''' Create a class (2-D vector) and use it to create another class representing a 3-D 
+vector. '''
+
+
 
 

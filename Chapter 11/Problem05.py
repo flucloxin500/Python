@@ -1,3 +1,3 @@
-''' Write a Class ‘Train’ which has methods to book a ticket, get status (no of seats) 
-and get fare information of train running under Indian Railways. '''
+''' Write a class vector representing a vector of n dimensions. Overload the + and * 
+operator which calculates the sum and the dot(.) product of them. '''
 
