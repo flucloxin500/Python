@@ -1,21 +1,7 @@
-'''Create a class ‘Pets’ from a class ‘Animals’ and further create a class ‘Dog’ from 
-‘Pets’. Add a method ‘bark’ to class ‘Dog’. '''
+'''Write a program to print third, fifth and seventh element from a list using enumerate 
+function.'''
 
-class Animals:
-    pass
 
-class Pets(Animals):
-    pass
-
-class Dogs(Pets):
-    @staticmethod
-    def bark():
-        print("Bow Bow")
-        
-
-d = Dogs()
-
-d.bark()
 
 
 
